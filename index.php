@@ -1,6 +1,5 @@
 <?php
-require_once('../util/security.php');
-session_start();
+require_once('../Website/util/Security.php');
 Security::checkHTTPS();
 
 $_SESSION['working_dir'] = getcwd();
@@ -8,7 +7,15 @@ Security::checkHTTPS();
 ?>
 
 <html>
+    <ul>
+        <li><a href="about.php">About</a></li>
+        <li><a href="contact.php">Contact</a></li>
+    </ul>
     <title>Paw-radise</title>
+    <head>
+        <link href="style.css" rel="stylesheet">
+    </head>
+
 
     <ul>
         <li><a href="about.php">About</li>

@@ -1,0 +1,37 @@
+body {
+    background-color: white;
+}
+p {
+    font-size: 16;
+    margin: 10px 70px;
+
+}
+li {
+    float: left;
+}
+a {
+    display: block;
+    padding: 8px;
+    background-color: whitesmoke;
+}
+h2 {
+    margin: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.image-div{
+    float: left;
+    margin-right: 10px;
+    max-width: 20%;
+    max-height: 20%;
+    margin: 0px 15px;
+}
+h3 {
+    margin: 0px 25px;
+    overflow: hidden;
+    padding: 10px;
+}
