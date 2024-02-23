@@ -27,6 +27,8 @@ require_once('../Website/util/new_user.php');
         <p><b>Contact us via phone: (123)456-7890
             or email pawradise@gmail.com</b></p>
     </form>
+
+    //code used to make an image banner
     <div id="banner" style="overflow: hidden;" >
         <div class="image-div">
             <img src="aggressioncert.jpeg" alt="aggression certificate" width = "150px" height = "150px">
