@@ -24,8 +24,8 @@ require_once('../Website/util/new_user.php');
         <input type="submit" value="Save" name="save">
         <input type="reset" value="Reset" name="reset">
         <h4><b>Or</b></h4>
-        <p>Contact us via phone: (123)456-7890</p>
-        <p>or email pawradise@gmail.com</p>
+        <p><b>Contact us via phone: (123)456-7890
+            or email pawradise@gmail.com</b></p>
     </form>
     <div id="banner" style="overflow: hidden;" >
         <div class="image-div">
